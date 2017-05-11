@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Restaurante App</string>
+    <string name="label_3">Tipo</string>
+    <string name="label_2">Endereço</string>
+    <string name="label_1">Nome</string>
+    <string name="action_add">Incluir</string>
+    <string name="action_exit">Sair</string>
+    <string name="action_list">Listar</string>
+    <string name="editarMenu">Editar</string>
+    <string name="excluirMenu">Excluir</string>
+    <string-array name="tipos">
+        <item>Rodizio</item>
+        <item>Fast Food</item>
+        <item>Domicilio</item>
+    </string-array>
+</resources>
